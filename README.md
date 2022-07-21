@@ -37,7 +37,6 @@ expand personal and professional experiences.
  <!--<a href="https://github.com/ElBaraaRadwan/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElBaraaRadwan&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a> -->
   </p>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
