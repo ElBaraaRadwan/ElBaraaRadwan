@@ -23,7 +23,6 @@ expand personal and professional experiences.
 </p>
 
 <br>
-<br>
 
 ## 📊 My Github Stats
 
@@ -38,11 +37,6 @@ expand personal and professional experiences.
   </p>
   <br/>
 
-
-<br/>
-<br/>
-
-<br/>
 
 ## 🔗 Contact
 [![Gmail](https://img.shields.io/badge/gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:El-Baraa.S.Radwan@gamil.com)
