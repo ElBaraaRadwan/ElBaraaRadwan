@@ -30,6 +30,7 @@ expand personal and professional experiences.
   <br/>
   <p align="center">
     <a href="https://github.com/ElBaraaRadwan/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ElBaraaRadwan&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+  
   <a href="https://github.com/ElBaraaRadwan/github-readme-streak-stats">
         <img alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElBaraaRadwan&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
