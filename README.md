@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Boxed+Round&size=40&duration=4000&color=a9fef7&center=true&vCenter=true&width=800&height=100&lines=El-Baraa+Radwan;Full-Stack+(MERN)+WEB+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Boxed+Round&size=40&duration=4000&color=a9fef7&center=true&vCenter=true&width=800&height=100&lines=El-Baraa+Radwan;Backend+WEB+Developer" />
 </h1>
 
 ## 🚀 About Me <img align="right" alt="visitors" src="https://gpvc.arturio.dev/ElBaraaRadwan" /> 
