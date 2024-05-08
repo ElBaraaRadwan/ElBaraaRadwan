@@ -10,37 +10,84 @@ Self-motivated team player seeking opportunities in the field of
 Computer Science to apply my B.Sc. degree where I canfurther
 expand personal and professional experiences.
 
-## 🛠 Skills
--	👨‍💻 Frontend: Html5/CSS3, JavaScript, JSON, APIs 
--	⚙️ Framework: Bootstrap5, knowledge of radical 
--	👨‍💻 Software Engineering concepts, Data Structures and Algorithms
--	⚙️ Databases: Oracle, MySQL, MongoDB
--	💽 Back-End: NodeJS, ExpressJS framework 
--	⚙️ Other: NPM, POSTMAN, Responsive design, CSS Media queries, knowledge of Gitflow & Unit Testing
+###
 
-<p align="center">
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> </p>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElBaraaRadwan&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=calm&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ElBaraaRadwan&locale=en&mode=daily&theme=calm&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+</div>
 
-<br>
+###
 
-## 📊 My Github Stats
+<br clear="both">
 
-  <br/>
-  <p align="center">
-    <a href="https://github.com/ElBaraaRadwan/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ElBaraaRadwan&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-  
-  <a href="https://github.com/ElBaraaRadwan/github-readme-streak-stats">
-        <img alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElBaraaRadwan&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
- <!--<a href="https://github.com/ElBaraaRadwan/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElBaraaRadwan&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a> -->
-  </p>
-  <br/>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ElBaraaRadwan/count.svg?"  />
+</div>
 
+###
 
-## 🔗 Contact
-[![Gmail](https://img.shields.io/badge/gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:El-Baraa.S.Radwan@gamil.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elbaraa-radwan/)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="35" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="35" alt="prisma logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="35" alt="sequelize logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="35" alt="express logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="35" alt="postman logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35" alt="jest logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="35" alt="rabbitmq logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=heroku" height="35" alt="heroku logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo"  />
+</div>
 
-## Watch my contribution graph eaten by the snake 🐍
-![Snake animation](https://github.com/ElBaraaRadwan/ElBaraaRadwan/blob/output/github-contribution-grid-snake.svg)
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p5czVwZXNrNzR0OHN0ZW9renU0dDJpd3pxYXg5dnpiMHo4czJnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b8RfbQFaOs1rO10ren/giphy.gif"  />
+
+###
+
+<div align="left">
+  <a href="mailto:El-Baraa.S.Radwan@gamil.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/elbaraa-radwan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ElBaraaRadwan/ElBaraaRadwan/output/snake.svg" alt="Snake animation" />
+
+###
