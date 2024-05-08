@@ -3,11 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Boxed+Round&size=40&duration=4000&color=a9fef7&center=true&vCenter=true&width=800&height=100&lines=El-Baraa+Radwan;Backend+WEB+Developer" />
 </h1>
 
-## 🚀 About Me <img align="right" alt="visitors" src="https://gpvc.arturio.dev/ElBaraaRadwan" /> 
+## 🚀 About Me
 Hay! 👋 
-I'm El-Baraa Radwan, Full-Stack (MERN) Web Developer. </br>
+I'm El-Baraa Radwan, Backend Web Developer. </br>
 Self-motivated team player seeking opportunities in the field of
-Computer Science to apply my B.Sc. degree where I canfurther
+Computer Science to apply my B.Sc. degree where I can further
 expand personal and professional experiences.
 
 ###
@@ -88,6 +88,19 @@ expand personal and professional experiences.
 
 ###
 
-<img src="https://raw.githubusercontent.com/ElBaraaRadwan/ElBaraaRadwan/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ###
