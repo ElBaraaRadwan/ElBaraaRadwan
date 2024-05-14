@@ -12,21 +12,6 @@ expand personal and professional experiences.
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElBaraaRadwan&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=calm&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ElBaraaRadwan&locale=en&mode=daily&theme=calm&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ElBaraaRadwan/count.svg?"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="15" />
@@ -71,12 +56,6 @@ expand personal and professional experiences.
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p5czVwZXNrNzR0OHN0ZW9renU0dDJpd3pxYXg5dnpiMHo4czJnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b8RfbQFaOs1rO10ren/giphy.gif"  />
-
-###
-
 <div align="left">
   <a href="mailto:El-Baraa.S.Radwan@gamil.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -85,13 +64,5 @@ expand personal and professional experiences.
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
 
 ###
