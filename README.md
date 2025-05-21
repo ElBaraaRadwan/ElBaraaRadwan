@@ -6,23 +6,38 @@
 
 Hey! 👋  
 I'm **El-Baraa Radwan**, a passionate and self-driven **Backend Web Developer**.  
-I specialize in building scalable, secure, and modern web applications using **Node.js**, **NestJS**, and **GraphQL**.  
+I specialize in building scalable, secure, and modern web applications using **Node.js**, **NestJS**/**ExpressJS**, and **GraphQL**/**RESTful** APIs.  
 I'm always eager to learn, collaborate, and deliver impactful solutions through clean code and powerful architecture.
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 🧠 Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="35" alt="TypeScript" />
+</div>
+
+### ⚙️ Backend
+<div align="left">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="Node.js" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="35" alt="NestJS" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="35" alt="Express" />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/graphql/E10098" height="35" alt="GraphQL" />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="35" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="35" alt="RabbitMQ" />
+</div>
+
+### 🛢️ Databases & ORMs
+<div align="left">
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="35" alt="PostgreSQL" />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/aws/232F3E" height="35" alt="AWS S3" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="MySQL" />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" alt="MongoDB" />
   <img width="15" />
@@ -30,29 +45,41 @@ I'm always eager to learn, collaborate, and deliver impactful solutions through 
   <img width="15" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="35" alt="Prisma" />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="Node.js" />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="35" alt="NestJS" />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="35" alt="Express" />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="35" alt="PostgreSQL" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="MySQL" />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="Git" />
-  <img width="15" />
+  <img src="https://cdn.simpleicons.org/typeorm/2D3748" height="35" alt="TypeORM" />
+</div>
+
+### 🧪 Testing
+<div align="left">
+  <img src="https://cdn.simpleicons.org/jest/C21325" height="35" alt="Jest" />
+</div>
+
+### 🐳 DevOps & Deployment
+<div align="left">
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt="Docker" />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="35" alt="Kubernetes" />
+</div>
+
+### 🔧 Tools & Platforms
+<div align="left">
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="35" alt="Postman" />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/jest/C21325" height="35" alt="Jest" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="Git" />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="35" alt="RabbitMQ" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="35" alt="Firebase" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="Vercel" />
+  <img src="https://cdn.simpleicons.org/aws/232F3E" height="35" alt="AWS S3" />
+</div>
+
+### 🎨 Frontend (Basic Knowledge)
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="HTML5" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="35" alt="Heroku" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" alt="CSS3" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap" />
 </div>
 
 ---
