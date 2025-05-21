@@ -68,7 +68,7 @@ I'm always eager to learn, collaborate, and deliver impactful solutions through 
   <img width="15" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="35" alt="Firebase" />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/aws/232F3E" height="35" alt="AWS S3" />
+  <img src="https://cdn.simpleicons.org/amazons3/232F3E" height="35" alt="AWS S3" />
 </div>
 
 ### 🎨 Frontend (Basic Knowledge)
